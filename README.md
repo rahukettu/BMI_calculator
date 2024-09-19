@@ -27,4 +27,4 @@ It calculates the Body Mass Index (BMI) based on user inputs for height and weig
    git clone https://github.com/rahukettu/BMI_calculator.git
    cd BMI_calculator
    
-#This project has been published under the GNU General License
+This project has been published under the GNU General License
